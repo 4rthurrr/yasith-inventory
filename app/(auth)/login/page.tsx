@@ -49,7 +49,7 @@ export default function LoginPage() {
                     <div className="p-3 rounded-full bg-primary text-primary-foreground">
                         <Shirt className="w-8 h-8" />
                     </div>
-                    <h1 className="text-2xl font-bold tracking-tight">Yasith Inventory</h1>
+                    <h1 className="text-2xl font-bold tracking-tight">Nepepa Fashion Inventory</h1>
                     <p className="text-sm text-muted-foreground">Enter your secure PIN to access the system.</p>
                 </div>
 

@@ -35,7 +35,7 @@ export default function DashboardLayout({
             <div className="p-6">
                 <h1 className="text-xl font-bold tracking-tight flex items-center gap-2">
                     <Shirt className="w-6 h-6" />
-                    Inventory
+                    Nepepa Fashion Inventory
                 </h1>
                 <p className="text-xs text-muted-foreground mt-1">Management System</p>
             </div>
@@ -93,7 +93,7 @@ export default function DashboardLayout({
                 <header className="md:hidden h-14 border-b bg-background flex items-center px-4 justify-between sticky top-0 z-40">
                     <div className="font-bold flex items-center gap-2">
                         <Shirt className="w-5 h-5" />
-                        Inventory
+                        Nepepa Fashion
                     </div>
 
                     <div className="flex items-center gap-2">
